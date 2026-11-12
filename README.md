@@ -1,5 +1,7 @@
 # FMCG Lakehouse | Enterprise Data Integration on Databricks
 
+![FMCG Lakehouse Dashboard](resources/dashboard-preview.png)
+
 An end-to-end data engineering project demonstrating how to integrate an acquired company's inconsistent and unstandardized data into an established enterprise lakehouse.
 
 Built using **Databricks, PySpark, SQL, Delta Lake and Amazon S3**, this solution implements a medallion architecture with automated data ingestion, transformation, historical backfills, incremental processing and enterprise data consolidation.
